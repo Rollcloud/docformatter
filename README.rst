@@ -11,6 +11,13 @@ Formats docstrings to follow `PEP 257`_.
    :alt: Build status
 
 
+Fork - rollcloud
+================
+
+This fork has been made to address some strange single-line and multi-
+line issues that don't follow PEP 257.
+
+
 Features
 ========
 
