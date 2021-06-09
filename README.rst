@@ -17,6 +17,10 @@ Fork - rollcloud
 This fork has been made to address some strange single-line and multi-
 line issues that don't follow PEP 257.
 
+My preferred usage::
+
+   $ docformatter --in-place --pre-summary-newline *.py */*.py
+
 
 Features
 ========
